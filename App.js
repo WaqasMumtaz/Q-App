@@ -12,7 +12,7 @@ import Company from './components/screens/company';
 // import AssetExample from './components/AssetExample';
 
 // or any pure javascript modules available in npm
-import { Card } from 'react-native-paper';
+//import { Card } from 'react-native-paper';
 
 
   
