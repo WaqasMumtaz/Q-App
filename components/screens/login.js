@@ -10,7 +10,7 @@ export default class Facebooklogin extends React.Component {
   };
 
   constructor(props) {
-    console.log(props);
+    // console.log(props);
     super(props);
 
     this.state = {};
