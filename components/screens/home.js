@@ -4,7 +4,7 @@ import { Text, View , StyleSheet,Button } from 'react-native';
 
 export default class HomeScreen extends React.Component {
   static navigationOptions = {
-    title: 'Home',
+    title: 'Home Screen',
   };
 
   render() {
